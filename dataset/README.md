@@ -6,7 +6,8 @@ Or you can download the processed data from [here](https://drive.google.com/driv
 ```bash
 ${POSE_ROOT}/
 |-- dataset
-|   |-- data_3d_h36m.npz
-|   |-- data_2d_h36m_gt.npz
-|   |-- data_2d_h36m_cpn_ft_h36m_dbb.npz
+|   |-- h36m
+|   |   |-- data_3d_h36m.npz
+|   |   |-- data_2d_h36m_gt.npz
+|   |   |-- data_2d_h36m_cpn_ft_h36m_dbb.npz
 ```
