@@ -1,5 +1,7 @@
 # Exploiting Spatial-Temporal Relationships for Occlusion-Robust 3D Human Pose Estimation
 
+Find the complete thesis [here](https://github.com/patriciamdr/ma-code/blob/main/thesis_text/main.pdf).
+
 ## Dependencies
 
 - Cuda 11.6
